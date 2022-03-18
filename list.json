@@ -2,6 +2,9 @@
     "bad-plugins-list": [
       "ClearLag",
       "WildStacker",
-      "StackMob"
+      "StackMob",
+      "PlugMan",
+      "PlugManX",
+      "PluginManager"
     ]
 }
