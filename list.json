@@ -5,6 +5,9 @@
       "StackMob",
       "PlugMan",
       "PlugManX",
-      "PluginManager"
+      "PluginManager",
+      "EpicWorldGenerator",
+      "IllegalStack",
+      "EntityTrackerFix"  
     ]
 }
